@@ -28,6 +28,7 @@ You can find all the library in the requirements.txt
 - [Tunahan Demirkol](https://github.com/TunahanDemirkol)
 - [Şeymanur Yaşa](https://github.com/seymanuryasa)
 - [Ata Berk Fırat](https://github.com/ataberk771)
+- [Nezaket Canatan](https://github.com/NezaketCanatan)
 
 ## License
 
